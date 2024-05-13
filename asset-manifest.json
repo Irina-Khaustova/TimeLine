@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/TimeLine/static/css/main.cd3641b8.css",
+    "main.js": "/TimeLine/static/js/main.e98dcf05.js",
+    "static/js/453.737040d2.chunk.js": "/TimeLine/static/js/453.737040d2.chunk.js",
+    "index.html": "/TimeLine/index.html",
+    "main.cd3641b8.css.map": "/TimeLine/static/css/main.cd3641b8.css.map",
+    "main.e98dcf05.js.map": "/TimeLine/static/js/main.e98dcf05.js.map",
+    "453.737040d2.chunk.js.map": "/TimeLine/static/js/453.737040d2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cd3641b8.css",
+    "static/js/main.e98dcf05.js"
+  ]
+}
